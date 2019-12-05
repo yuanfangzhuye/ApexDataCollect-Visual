@@ -1,0 +1,6 @@
+framework module ApexDataCollect_Visual {
+  umbrella header "ApexDataCollect-Visual-umbrella.h"
+
+  export *
+  module * { export * }
+}

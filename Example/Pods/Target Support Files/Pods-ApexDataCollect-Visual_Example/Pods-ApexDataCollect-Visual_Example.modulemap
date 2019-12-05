@@ -1,0 +1,6 @@
+framework module Pods_ApexDataCollect_Visual_Example {
+  umbrella header "Pods-ApexDataCollect-Visual_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
